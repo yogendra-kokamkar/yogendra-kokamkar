@@ -1,4 +1,4 @@
-### Hi there, I'm Yogendra Kokamkar and I love to code 👋
+### Hi there, I'm Yogendra Kokamkar, I love to code and automate 👋
 
 <!--
 **yogendra-kokamkar/yogendra-kokamkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
