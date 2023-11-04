@@ -32,8 +32,10 @@
   <img width="12" />
 </div>
 
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogendra-kokamkar&show_icons=true&locale=en&layout=compact" alt="yogendra-kokamkar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogendra-kokamkar&show_icons=true&locale=en" alt="yogendra-kokamkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-kokamkar&" alt="yogendra-kokamkar" /></p>
+</div>
