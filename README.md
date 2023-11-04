@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogendra-kokamkar" alt="yogendra-kokamkar" /></a> </p>
 
+- 🌱 I’m currently learning **Kubernetes**
+
+- 💬 Ask me about **DevOps**
+
 - 📫 How to reach me **yogendrak43@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogendra-kokamkar&show_icons=true&locale=en&layout=compact" alt="yogendra-kokamkar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogendra-kokamkar&show_icons=true&locale=en" alt="yogendra-kokamkar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-kokamkar&" alt="yogendra-kokamkar" /></p>
