@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **DevOps** <a href="https://tr.ee/l3fTJ5M3pM"> 
-
+- 💬 <a href="https://tr.ee/l3fTJ5M3pM"> Ask me </a> about **DevOps** 
 - 📫 How to reach me **yogendrak43@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
