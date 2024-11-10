@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogendra-kokamkar" alt="yogendra-kokamkar" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **MLOps**
 
 - 💬 <a href="https://tr.ee/l3fTJ5M3pM"> Ask me </a> about **DevOps** 
 - 📫 How to reach me **yogendrak43@gmail.com**
